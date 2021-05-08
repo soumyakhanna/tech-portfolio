@@ -4,43 +4,45 @@ title: Projects
 ---
 
 # Creative Computing Studio
+Theme: Together x Apart x Time x Space
 
-## Sketch Problem 1
+## Sketch Problem 1: Introductions
 
-Problem Description:
-Our Approach:
+Our Approach: 
+
 My Contribution:
 
 
 
-## Sketch Problem 2
+## Sketch Problem 2: Narrative
 
-Problem Description:
 Our Approach:
+
 My Contribution:
 
 
 
-## Sketch Problem 3
+## Sketch Problem 3: Artist-Inspired Project
 
-Problem Description:
 Our Approach:
+
 My Contribution:
 
 
 
-## Sketch Problem 4
+## Sketch Problem 4: 
 
-Problem Description:
 Our Approach:
+
 My Contribution:
 
 
 
 ## Semester Project
 
-Problem Description:
 Our Approach:
+
 My Contribution:
+
 
 
