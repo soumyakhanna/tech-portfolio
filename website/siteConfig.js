@@ -14,7 +14,7 @@ const users = [];
 const siteConfig = {
     title: 'Soumya Khanna', // Title for your website.
     tagline: 'Aspring developer',
-    profilePhoto: '',
+    profilePhoto: './SK.jpg',
     url: 'https://soumyakhanna.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
@@ -48,7 +48,7 @@ const siteConfig = {
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-    copyright: `Copyright © ${new Date().getFullYear()} Your Name Here`,
+    copyright: `Copyright © ${new Date().getFullYear()} Soumya Khanna`,
 
     highlight: {
         // Highlight.js theme to use for syntax highlighting in code blocks.
@@ -68,7 +68,6 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'soumyakhanna',
-        twitter: '',
         github: 'soumyakhanna',
     },
 
