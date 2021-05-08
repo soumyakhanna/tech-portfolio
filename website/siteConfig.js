@@ -39,7 +39,7 @@ const siteConfig = {
     // If you have users set above, you add it here:
     users,
 
-    favicon: '',
+    favicon: 'assets/SKLogo.png',
 
     /* Colors for website */
     colors: {
