@@ -4,7 +4,7 @@ title: Projects
 ---
 
 # Creative Computing Studio
-Theme: Together x Apart x Time x Space
+**Theme: Together x Apart x Time x Space**
 
 ## Sketch Problem 1: Introductions
 
@@ -33,6 +33,8 @@ My Contribution:
 ## Sketch Problem 4: 
 
 Our Approach:
+
+[!(https://img.youtube.com/vi/9E0mPhA-Su0&list=PLzVUVeWLd5PfjRIkDI2gIjZRLs7Q-CYBA&index=3/0.jpg)](https://www.youtube.com/watch?v=9E0mPhA-Su0&list=PLzVUVeWLd5PfjRIkDI2gIjZRLs7Q-CYBA&index=3)
 
 My Contribution:
 
