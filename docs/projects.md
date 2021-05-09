@@ -12,7 +12,7 @@ Our Approach: We decided to introduce ourselves through the eyes of a third-pers
 
 [![YouTube video](/assets/SP1.png)](https://www.youtube.com/watch?v=tDKGgi064t4&list=PLzVUVeWLd5PfjRIkDI2gIjZRLs7Q-CYBA&index=6)
 
-![Link](https://www.youtube.com/watch?v=tDKGgi064t4&list=PLzVUVeWLd5PfjRIkDI2gIjZRLs7Q-CYBA&index=6)
+[Link](https://www.youtube.com/watch?v=tDKGgi064t4&list=PLzVUVeWLd5PfjRIkDI2gIjZRLs7Q-CYBA&index=6)
 
 My Contribution: Social media is a big part of my life, and I use it to express myslelf. While brainstroming ideas, it was natural for me to think of social media and pictures to introduce our team. We decided to have a clear structure about the information we'd share such as hobbies. 
 
@@ -21,7 +21,7 @@ My Contribution: Social media is a big part of my life, and I use it to express 
 
 Our Approach: Created a text-adventure space themed game with tasks for users to compelete which decide their destiny.  
 
-![Link](http://textadventures.co.uk/games/view/hhllixi_0eqp8xeuwrwlcq/repair-the-breach)
+[Link](http://textadventures.co.uk/games/view/hhllixi_0eqp8xeuwrwlcq/repair-the-breach)
 
 My Contribution: Worked on developing the game with its multiple conditions and results.  
 
@@ -30,7 +30,7 @@ My Contribution: Worked on developing the game with its multiple conditions and 
 
 My Contribution: I have always admired collaboration in virtual environments which led me to choose this project.
 
-![Link](https://docs.google.com/presentation/d/1YMuPMyhkrBzps4o0gJKbQU2gl-089PVQFtmCEG8DZVY/edit?usp=sharing)
+[Link](https://docs.google.com/presentation/d/1YMuPMyhkrBzps4o0gJKbQU2gl-089PVQFtmCEG8DZVY/edit?usp=sharing)
 
 ## Sketch Problem 4: Synthesia Space
 
@@ -40,7 +40,7 @@ Our Approach: Created a Virtual Reality multiplayer game where the colors and th
 
 My Contribution: Worked on the multiplayed aspect of the VR game.
 
-![Link](https://www.youtube.com/watch?v=9E0mPhA-Su0&list=PLzVUVeWLd5PfjRIkDI2gIjZRLs7Q-CYBA&index=3)
+[Link](https://www.youtube.com/watch?v=9E0mPhA-Su0&list=PLzVUVeWLd5PfjRIkDI2gIjZRLs7Q-CYBA&index=3)
 
 ## Semester Project
 
