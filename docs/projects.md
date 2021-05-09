@@ -10,7 +10,7 @@ title: Projects
 
 Our Approach: 
 
-![![YouTube video](/assets/SP1.png)](https://www.youtube.com/watch?v=tDKGgi064t4&list=PLzVUVeWLd5PfjRIkDI2gIjZRLs7Q-CYBA&index=6)
+[![YouTube video](/assets/SP1.png)](https://www.youtube.com/watch?v=tDKGgi064t4&list=PLzVUVeWLd5PfjRIkDI2gIjZRLs7Q-CYBA&index=6)
 
 My Contribution: 
 
@@ -36,7 +36,7 @@ My Contribution:
 
 Our Approach:
 
-![![YouTube video](/assets/SP4.png)](https://www.youtube.com/watch?v=9E0mPhA-Su0&list=PLzVUVeWLd5PfjRIkDI2gIjZRLs7Q-CYBA&index=3)
+[![YouTube video](/assets/SP4.png)](https://www.youtube.com/watch?v=9E0mPhA-Su0&list=PLzVUVeWLd5PfjRIkDI2gIjZRLs7Q-CYBA&index=3)
 
 My Contribution:
 
