@@ -48,13 +48,19 @@ Relevant links: [Demo](https://www.youtube.com/watch?v=9E0mPhA-Su0&list=PLzVUVeW
 
 ![YouTube video](./assets/P1.png)
 
+**Relevant links:** Presentation(https://docs.google.com/presentation/d/1ZxBrmozrfvM9ea9LuelxlLjZVNZYiJ82W4XfdmbwBt8/edit?usp=sharing)
+
 ## Project Proposal
 
 ![YouTube video](./assets/P2.png)
 
+**Relevant links:** Presentation(https://docs.google.com/presentation/d/1Yj1qQZfvry8xHatVKkl31AVZJwPnGGDV52ZvYedLEVk/edit?usp=sharing)
+
 ## Project Proposals Mashup
 
 ![YouTube video](./assets/P3.png)
+
+**Relevant links:** Presentation(https://docs.google.com/presentation/d/1mHMU_tXg_odgcnpEnPWeRbirNBNuxTJeKe3LLi4TCMI/edit?usp=sharing)
 
 ## Semester Project
 
@@ -64,5 +70,4 @@ Relevant links: [Demo](https://www.youtube.com/watch?v=9E0mPhA-Su0&list=PLzVUVeW
 
 **My Contribution:** Worked on iOS development and Spotify APIs
 
-
-
+**Relevant links:** Presentation(https://docs.google.com/presentation/d/1mHMU_tXg_odgcnpEnPWeRbirNBNuxTJeKe3LLi4TCMI/edit?usp=sharing)
