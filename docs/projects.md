@@ -22,11 +22,15 @@ Relevant links: [Video](https://www.youtube.com/watch?v=tDKGgi064t4&list=PLzVUVe
 
 Our Approach: Created a text-adventure space themed game with tasks for users to compelete which decide their destiny.  
 
+![YouTube video](./assets/SP2.png)
+
 My Contribution: Worked on developing the game with its multiple conditions and results.  
 
 Relevant links: [Game](http://textadventures.co.uk/games/view/hhllixi_0eqp8xeuwrwlcq/repair-the-breach)
 
 ## Sketch Problem 3: Artist-Inspired Project
+
+![YouTube video](./assets/SP3.png)
 
 My Contribution: I have always admired collaboration in virtual environments which led me to choose this project.
 
