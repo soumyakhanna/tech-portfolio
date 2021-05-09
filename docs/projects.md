@@ -6,6 +6,8 @@ title: Projects
 # Creative Computing Studio
 **Theme: Together x Apart x Time x Space**
 
+https://user-images.githubusercontent.com/31695645/117589608-94d07700-b0f8-11eb-9ff3-531bfccf702a.mp4
+
 ## Sketch Problem 1: Introductions
 
 Our Approach: We decided to introduce ourselves through the eyes of a third-person viewing our Facebook profiles.
@@ -15,7 +17,6 @@ Our Approach: We decided to introduce ourselves through the eyes of a third-pers
 My Contribution: Social media is a big part of my life, and I use it to express myslelf. While brainstroming ideas, it was natural for me to think of social media and pictures to introduce our team. We decided to have a clear structure about the information we'd share such as hobbies. 
 
 Relevant links: [Video](https://www.youtube.com/watch?v=tDKGgi064t4&list=PLzVUVeWLd5PfjRIkDI2gIjZRLs7Q-CYBA&index=6)
-
 
 ## Sketch Problem 2: Narrative
 
@@ -37,11 +38,9 @@ Our Approach: Created a Virtual Reality multiplayer game where the colors and th
 
 ![YouTube video](./assets/SP4.png)
 
-[![YouTube video](/assets/SP4.png)](https://www.youtube.com/watch?v=9E0mPhA-Su0&list=PLzVUVeWLd5PfjRIkDI2gIjZRLs7Q-CYBA&index=3)
-
 My Contribution: Worked on the multiplayed aspect of the VR game.
 
-Relevant links:[Demo](https://www.youtube.com/watch?v=9E0mPhA-Su0&list=PLzVUVeWLd5PfjRIkDI2gIjZRLs7Q-CYBA&index=3)
+Relevant links: [Demo](https://www.youtube.com/watch?v=9E0mPhA-Su0&list=PLzVUVeWLd5PfjRIkDI2gIjZRLs7Q-CYBA&index=3)
 
 ## Semester Project
 
