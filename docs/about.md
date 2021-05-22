@@ -109,26 +109,6 @@ Relevant links:
 <br>
   - Received a scholarship to attend by the Association of Women in Computing (AWC)
 
-### Projects
-**[Thrifty](https://github.com/soumyakhanna/Thrifty)**, SummerHacks 2020 hosted by FreeTailHackers
-<br>Project Description:
-<br>Technologies: Python, ReactNative, numpy
-
-Relevant links:
-[Demo](https://youtu.be/8VDqAQhb80g) | [Devpost](https://devpost.com/software/thrifty-69fay0)
-
-<br>**[RunTime](https://github.com/soumyakhanna/runTime)**, SheHacksVT 2020 hosted by Association of Women in Computing (AWC)
-<br>Project Description:
-<br>Technologies: HTML, CSS, JS, jQuery
-<br>Award: Won Best Cyber-Focused Award
-
-<br>**[ParkMyCar](https://github.com/soumyakhanna/parkMyCar)**, VTHacks 7
-<br>Project Description:
-<br>Technologies: HTML, CSS, JS, jQuery
-
-Relevant links: 
-[Devpost](https://devpost.com/software/parkmycar-15lazr)
-
 ### Awards and Honors
 
 **Dean's List**
