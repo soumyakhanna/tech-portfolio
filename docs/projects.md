@@ -3,19 +3,22 @@ id: projects
 title: Projects
 ---
 
-# [Thrifty](https://github.com/soumyakhanna/Thrifty), SummerHacks 2020 hosted by FreeTailHackers
+# [Thrifty](https://github.com/soumyakhanna/Thrifty)
+SummerHacks 2020 hosted by FreeTailHackers
 <br>Project Description:
 <br>Technologies: Python, ReactNative, numpy
 
 Relevant links:
 [Demo](https://youtu.be/8VDqAQhb80g) | [Devpost](https://devpost.com/software/thrifty-69fay0)
 
-# [RunTime](https://github.com/soumyakhanna/runTime), SheHacksVT 2020 hosted by Association of Women in Computing (AWC)
+# [RunTime](https://github.com/soumyakhanna/runTime) 
+SheHacksVT 2020 hosted by Association of Women in Computing (AWC)
 <br>Project Description:
 <br>Technologies: HTML, CSS, JS, jQuery
 <br>Award: Won Best Cyber-Focused Award
 
-# [ParkMyCar](https://github.com/soumyakhanna/parkMyCar), VTHacks 7
+# [ParkMyCar](https://github.com/soumyakhanna/parkMyCar)
+VTHacks 7
 <br>Project Description:
 <br>Technologies: HTML, CSS, JS, jQuery
 
