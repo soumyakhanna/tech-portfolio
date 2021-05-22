@@ -2,7 +2,7 @@
 id: ugr
 title: Undergraduate Research
 ---
-### [Research Projects](https://echolab.cs.vt.edu/)
+## [Research Projects](https://echolab.cs.vt.edu/)
 
 **Narcissistic Eyes**
 <br>
