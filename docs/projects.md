@@ -5,6 +5,14 @@ title: Projects
 
 ## Human Computer Interaction
 
+### Semester Project
+
+**Our Approach:** Developed an iOS application to help navigate difficult conversations
+
+**My Contribution:** Worked on iOS development and helped create prompts
+
+**Relevant links:** [GitHub](https://github.com/soumyakhanna/TalkItOut)
+
 ## Creative Computing Studio
 **Theme: Together x Apart x Time x Space**
 
