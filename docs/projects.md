@@ -3,27 +3,30 @@ id: projects
 title: Projects
 ---
 
-# [Thrifty](https://github.com/soumyakhanna/Thrifty)
-SummerHacks 2020 hosted by FreeTailHackers
-<br>Project Description:
-<br>Technologies: Python, ReactNative, numpy
+# Thrifty
+## SummerHacks 2020 hosted by FreeTailHackers
+<br>**Project Description:** Thrifty allows you to manage user expenses, capture photos of receipts, divide the expenses into categories, and display local businesses that provide cheaper options and help support them during the pandemic.
+<br>**Technologies:** Python, ReactNative, numpy
 
-Relevant links:
-[Demo](https://youtu.be/8VDqAQhb80g) | [Devpost](https://devpost.com/software/thrifty-69fay0)
+**Relevant links:**
+[Demo](https://youtu.be/8VDqAQhb80g) | [Devpost](https://devpost.com/software/thrifty-69fay0) | [GitHub](https://github.com/soumyakhanna/Thrifty)
 
-# [RunTime](https://github.com/soumyakhanna/runTime) 
-SheHacksVT 2020 hosted by Association of Women in Computing (AWC)
-<br>Project Description:
-<br>Technologies: HTML, CSS, JS, jQuery
-<br>Award: Won Best Cyber-Focused Award
+# RunTime
+## SheHacksVT 2020 hosted by Association of Women in Computing (AWC)
+<br>**Project Description:** A web app aimed for runners that lose motivation
+<br>**Technologies:** HTML, CSS, JS, jQuery
+<br>**Award:** Won Best Cyber-Focused Award
 
-# [ParkMyCar](https://github.com/soumyakhanna/parkMyCar)
-VTHacks 7
-<br>Project Description:
-<br>Technologies: HTML, CSS, JS, jQuery
+**Relevant links:**
+[GitHub](https://github.com/soumyakhanna/runTime)
 
-Relevant links: 
-[Devpost](https://devpost.com/software/parkmycar-15lazr)
+# ParkMyCar
+## VTHacks 7
+<br>**Project Description:** It optimizes parking lot challenges faced by JB Hunt company representatives faced on a daily basis. It provides shuttle service to nearby parking lots to manage a large number of parking requests.
+<br>**Technologies:** HTML, CSS, JS, jQuery
+
+**Relevant links:** 
+[Devpost](https://devpost.com/software/parkmycar-15lazr) | [GitHub](https://github.com/soumyakhanna/parkMyCar)
 
 # Human Computer Interaction
 
