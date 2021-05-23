@@ -37,11 +37,7 @@ Theme: Difficult Conversations
 
 **[CS 3724 - Introduction to Human-Computer Interaction](https://cs.vt.edu/Undergraduate/courses/CS3724.html)**
 
-Relevant links:
-
 **[CS 3744 - Introdution to GUI Programming](https://cs.vt.edu/Undergraduate/courses/CS3744.html)**
-
-Relevant links:
 
 ### Clubs & Organizations 
 
